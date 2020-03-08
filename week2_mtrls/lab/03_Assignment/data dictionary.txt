@@ -1,0 +1,9 @@
+
+Data dictionary 
+age	:Age of the person (continuous variable)
+sex	: Gender of the person (catagorical variable)
+bmi	: body mass index of the person (continuous varaible) 
+children : no of kids of that particular person ( Ordinal variable) 
+smoker: Smoker is a person who uses nicotine in any form. (catagorical variable)
+region: Place where the particular person resides (catagorical variable)
+charges: life insurance amount (continuous variable) 
